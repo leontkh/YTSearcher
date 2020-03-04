@@ -12,6 +12,6 @@ pip install google-api-python-client
 
 If the api key does not work (due to high traffic) you can access the following URL:
 https://console.developers.google.com/apis/credentials
-And create credentials > API key
+And create credentials > API key,
 Replace your API key into the first line so that would look like:
 api_key = "A_YOUR-API-KEY-HERE_To_sN-xyiNy0Vrq4YeY"
